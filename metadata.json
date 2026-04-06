@@ -1,0 +1,5 @@
+{
+  "name": "WildPromptor Web",
+  "description": "A powerful prompt engineering tool inspired by ComfyUI-WildPromptor. Create, organize, and enhance prompts with wildcards and AI.",
+  "requestFramePermissions": []
+}
